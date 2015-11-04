@@ -1,0 +1,23 @@
+body{
+	margin: 0px;
+	padding-bottom: 8px;
+	text-align: center;
+}
+header{
+	text-align: center;
+	vertical-align: middle;
+	font-size: 36pt;
+	font-style: normal;
+	font-weight: bold;
+	color: #F2F2F2;
+	line-height: 96px;
+	background-color: #1B1B1B;
+}
+img{
+	text-align: center;
+	background: #1166aa;
+}
+footer{
+	text-align: center;
+	font-size: 16pt;
+}
