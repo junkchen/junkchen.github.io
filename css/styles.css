@@ -22,7 +22,7 @@ header{
 }
 a:link { 
 	color:##F8F8F8; 
-	text-decoration:underline; 
+	text-decoration:none; 
 } 
 a:visited { 
 	color:##F8F8F8; 
@@ -33,8 +33,8 @@ a:hover {
 	text-decoration:none; 
 } 
 a:active { 
-	color:#FFFFFF; 
-	text-decoration:none; 
+	color:#000066;
+	text-decoration:none;  
 } 
 img{
 	text-align: center;
