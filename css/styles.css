@@ -10,9 +10,32 @@ header{
 	font-style: normal;
 	font-weight: bold;
 	color: #F2F2F2;
-	line-height: 96px;
+	line-height: 144px;
 	background-color: #1B1B1B;
 }
+.tab{
+	line-height:48px;
+	text-align:center;
+	font-size:14pt;
+	color:#F8F8F8;
+	background:#1B1B1B
+}
+a:link { 
+	color:##F8F8F8; 
+	text-decoration:underline; 
+} 
+a:visited { 
+	color:##F8F8F8; 
+	text-decoration:none; 
+} 
+a:hover { 
+	color:#000000; 
+	text-decoration:none; 
+} 
+a:active { 
+	color:#FFFFFF; 
+	text-decoration:none; 
+} 
 img{
 	text-align: center;
 	background: #1166aa;
