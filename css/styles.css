@@ -21,19 +21,19 @@ header{
 	background:#1B1B1B
 }
 a:link { 
-	color:#F8F8F8; 
+	color:#d1c0a5; 
 	text-decoration:none; 
 } 
 a:visited { 
-	color:#F8F8F8; 
+	color:#d1c0a5; 
 	text-decoration:none; 
 } 
 a:hover { 
-	color:#F8F8F8;
+	color:#a40000;
 	text-decoration:none; 
 } 
 a:active { 
-	color:#000066;
+	color:#d1c0a5;
 	text-decoration:none;  
 } 
 img{
