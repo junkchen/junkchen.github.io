@@ -44,3 +44,10 @@ footer{
 	text-align: center;
 	font-size: 16pt;
 }
+.home{
+	float:right;
+	position:fixed;
+	top:48px;
+	left:85%;
+	width:150px;
+}
