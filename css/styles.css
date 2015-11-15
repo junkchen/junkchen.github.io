@@ -69,3 +69,13 @@ footer{
 	left:85%;
 	width:150px;
 }
+ul{
+	letter-spacing: normal;
+	line-stacking-shift:disregard-shifts;
+	padding-left:20%;
+	padding-right:20%;
+}
+li{
+	min-height:32px;
+	text-align:left;
+}
