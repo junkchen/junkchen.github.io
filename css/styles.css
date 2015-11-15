@@ -4,20 +4,25 @@ body{
 	text-align: center;
 }
 header{
+	float:top;
 	text-align: center;
 	vertical-align: middle;
 	font-size: 36pt;
 	font-style: normal;
 	font-weight: bold;
 	color: #F2F2F2;
+	width:100%;
 	line-height: 144px;
 	background-color: #1B1B1B;
 }
 .tab{
+	position:fixed;
 	line-height:48px;
 	text-align:center;
 	font-size:14pt;
 	color:#F8F8F8;
+	top:0px;
+	width:100%;
 	background:#1B1B1B
 }
 a:link { 
