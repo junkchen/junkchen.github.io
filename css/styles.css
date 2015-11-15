@@ -50,9 +50,10 @@ footer{
 	font-size: 16pt;
 }
 .home{
-	float:right;
+	display:compact;
+	float:none;
 	position:fixed;
-	top:48px;
+	top:90%;
 	left:85%;
 	width:150px;
 }
