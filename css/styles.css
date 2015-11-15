@@ -25,20 +25,32 @@ header{
 	width:100%;
 	background:#1B1B1B
 }
-a:link { 
+.tab a:link { 
 	color:#d1c0a5; 
 	text-decoration:none; 
 } 
-a:visited { 
+.tab a:visited { 
 	color:#d1c0a5; 
 	text-decoration:none; 
 } 
-a:hover { 
+.tab a:hover { 
 	color:#a40000;
 	text-decoration:none; 
 } 
-a:active { 
+.tab a:active { 
 	color:#d1c0a5;
+	text-decoration:none;  
+} 
+a:link { 
+	text-decoration:none; 
+} 
+a:visited { 
+	text-decoration:none; 
+} 
+a:hover { 
+	text-decoration:none; 
+} 
+a:active { 
 	text-decoration:none;  
 } 
 img{
