@@ -1,10 +1,8 @@
 body{
 	margin: 0px;
-	padding-bottom: 8px;
 	text-align: center;
 }
 header{
-	float:top;
 	text-align: center;
 	vertical-align: middle;
 	font-size: 36pt;
@@ -12,11 +10,17 @@ header{
 	font-weight: bold;
 	color: #F2F2F2;
 	width:100%;
-	line-height: 144px;
+	top:auto;
+	line-height: 96px;
 	background-color: #1B1B1B;
 }
-.tab{
+.navbar{
 	position:fixed;
+	line-height:144px;
+	width:100%;
+	top:auto;
+}
+.tab{
 	line-height:48px;
 	text-align:center;
 	font-size:14pt;
@@ -58,8 +62,12 @@ img{
 	background: #1166aa;
 }
 footer{
+	padding-top:8px;
+	padding-bottom:8px;
 	text-align: center;
 	font-size: 16pt;
+	width:100%;
+	background:#1f1f1f;
 }
 .home{
 	display:compact;
