@@ -61,6 +61,14 @@ header{
 	color:#a40000;
 	text-decoration:none; 
 }  
+.list a:link, a:visited, a:active{
+	color:#FFFFCC;
+	text-decoration:none;
+}
+.list a:hover{
+	color:#a40000;
+	text-decoration:none;
+}
 img{
 	background:#FFFFFF;
 }
@@ -81,7 +89,8 @@ footer a:hover{
 	text-decoration:none;
 }
 .copyright{
-	font-size: 10pt;
+	font-size:14px;
+	text-align:center;
 	color:#999999;
 }
 .home{
