@@ -89,7 +89,8 @@ footer a:hover{
 	text-decoration:none;
 }
 .copyright{
-	font-size:14px;
+	font-size-adjust:inherit;
+	font-size:18px;
 	text-align:center;
 	color:#999999;
 }
